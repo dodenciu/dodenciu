@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad
-- 👀 I’m interested in developing web apps.
-- 🌱 I’m currently playing on Leetcode.
+- 👀 I’m interested in software design and architecture.
+- 🌱 I’m currently working as a freelancer.
 - 💞️ I’m looking to collaborate on .NET 5+ projects.
 - 📫 Reach me at vlad@dodenciu.com
 
